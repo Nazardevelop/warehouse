@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_warehouse", "lab2_warehouse\lab2_warehouse.csproj", "{ABCDD5DB-9E21-4992-8DEF-FA865B062E0A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{59E52558-BF12-4831-847D-3E0907C8BFDA} = {59E52558-BF12-4831-847D-3E0907C8BFDA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "warehouse_code", "warehouse_code\warehouse_code.csproj", "{59E52558-BF12-4831-847D-3E0907C8BFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCDD5DB-9E21-4992-8DEF-FA865B062E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCDD5DB-9E21-4992-8DEF-FA865B062E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCDD5DB-9E21-4992-8DEF-FA865B062E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCDD5DB-9E21-4992-8DEF-FA865B062E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E52558-BF12-4831-847D-3E0907C8BFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E52558-BF12-4831-847D-3E0907C8BFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E52558-BF12-4831-847D-3E0907C8BFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E52558-BF12-4831-847D-3E0907C8BFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

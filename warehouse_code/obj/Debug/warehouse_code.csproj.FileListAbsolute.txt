@@ -1,0 +1,10 @@
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\warehouse_code\bin\Debug\warehouse_code.dll
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\warehouse_code\bin\Debug\warehouse_code.pdb
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\warehouse_code\obj\Debug\warehouse_code.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\warehouse_code\obj\Debug\warehouse_code.dll
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\warehouse_code\obj\Debug\warehouse_code.pdb
+E:\projects\lab2_warehouse\warehouse_code\bin\Debug\warehouse_code.dll
+E:\projects\lab2_warehouse\warehouse_code\bin\Debug\warehouse_code.pdb
+E:\projects\lab2_warehouse\warehouse_code\obj\Debug\warehouse_code.csprojResolveAssemblyReference.cache
+E:\projects\lab2_warehouse\warehouse_code\obj\Debug\warehouse_code.dll
+E:\projects\lab2_warehouse\warehouse_code\obj\Debug\warehouse_code.pdb

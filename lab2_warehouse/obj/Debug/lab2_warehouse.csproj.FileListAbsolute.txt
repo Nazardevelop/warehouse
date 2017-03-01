@@ -1,0 +1,36 @@
+c:\users\uzer\documents\visual studio 2012\Projects\lab2_warehouse\lab2_warehouse\bin\Debug\lab2_warehouse.exe.config
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\bin\Debug\lab2_warehouse.exe
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\bin\Debug\lab2_warehouse.pdb
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.csprojResolveAssemblyReference.cache
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormBuy.resources
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormInfo.resources
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormMain.resources
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormSale.resources
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormStaff.resources
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.Properties.Resources.resources
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.csproj.GenerateResource.Cache
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.exe
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.pdb
+C:\Users\Uzer\Documents\Visual Studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormPartners.resources
+C:\Users\Uzer\documents\visual studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormResources.resources
+C:\Users\Uzer\documents\visual studio 2012\Projects\lab2_warehouse\lab2_warehouse\bin\Debug\warehouse_code.dll
+C:\Users\Uzer\documents\visual studio 2012\Projects\lab2_warehouse\lab2_warehouse\bin\Debug\warehouse_code.pdb
+C:\Users\Uzer\documents\visual studio 2012\Projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormBuyMore.resources
+E:\projects\lab2_warehouse\lab2_warehouse\bin\Debug\lab2_warehouse.exe.config
+E:\projects\lab2_warehouse\lab2_warehouse\bin\Debug\lab2_warehouse.exe
+E:\projects\lab2_warehouse\lab2_warehouse\bin\Debug\lab2_warehouse.pdb
+E:\projects\lab2_warehouse\lab2_warehouse\bin\Debug\warehouse_code.dll
+E:\projects\lab2_warehouse\lab2_warehouse\bin\Debug\warehouse_code.pdb
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.csprojResolveAssemblyReference.cache
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormBuy.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormBuyMore.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormInfo.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormMain.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormResources.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormSale.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormStaff.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.FormPartners.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.Properties.Resources.resources
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.csproj.GenerateResource.Cache
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.exe
+E:\projects\lab2_warehouse\lab2_warehouse\obj\Debug\lab2_warehouse.pdb
